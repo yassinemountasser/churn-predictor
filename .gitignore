@@ -1,0 +1,16 @@
+# Python junk
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+env/
+.env
+
+# Data & Models (Optional: usually we don't commit large data/models, but for a small portfolio it's okay)
+# If you want to keep the repo clean, uncomment the lines below:
+# customer_data.csv
+# churn_model.pkl
+
+# VS Code settings
+.vscode/
