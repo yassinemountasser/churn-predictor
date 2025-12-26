@@ -8,7 +8,7 @@ Churn Predictor (Customer Retention Engine)
 Project Overview: 
 This project is an end-to-end Machine Learning pipeline designed to predict customer churn for subscription-based businesses.
 
-In a SaaS or Telco environment, retaining an existing customer is significantly cheaper than acquiring a new one. This tool helps stakeholders identify "at-risk" customers *before* they leave, enabling proactive retention strategies.
+In a SaaS or Telco environment, retaining an existing customer is significantly cheaper than acquiring a new one. This tool helps  stakeholders identify "at-risk" customers *before* they leave, enabling proactive retention strategies.
 
 Key Features: 
 Production-Ready Pipeline: Uses `Scikit-Learn` pipelines to bundle preprocessing and model logic, preventing training-serving skew. 
