@@ -6,6 +6,7 @@ Churn Predictor (Customer Retention Engine)
 ![Status](https://img.shields.io/badge/Status-Complete-success)
 
 Project Overview: 
+
 This project is an end-to-end Machine Learning pipeline designed to predict customer churn for subscription-based businesses.
 
 In a SaaS or Telco environment, retaining an existing customer is significantly cheaper than acquiring a new one. This tool helps  stakeholders identify "at-risk" customers *before* they leave, enabling proactive retention strategies.
