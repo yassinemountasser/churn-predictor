@@ -23,7 +23,7 @@ In a SaaS or Telco environment, retaining an existing customer is significantly 
 * **Visualization:** Plotly, Streamlit
 
 
-How to Run Locally:
+## How to Run Locally
 
 1. Clone the repository
 ```bash
