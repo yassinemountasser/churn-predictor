@@ -27,7 +27,7 @@ In a SaaS or Telco environment, retaining an existing customer is significantly 
 
 1. Clone the repository
 ```bash
-git clone [https://github.com/yassinemountasser/churn-predictor.git](https://github.com/yassinemountasser/churn-predictor.git)
+git clone https://github.com/yassinemountasser/churn-predictor.git
 cd churn-predictor
 ```
 2. Install Dependencies
