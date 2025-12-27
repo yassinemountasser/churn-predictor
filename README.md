@@ -18,7 +18,7 @@ In a SaaS or Telco environment, retaining an existing customer is significantly 
 
 ### The Stack
 * **Core:** Python
-* **Machine Learning:** XGBoost (Extreme Gradient Boosting)
+* **Machine Learning:** XGBoost 
 * **Data Processing:** Pandas, NumPy, Scikit-Learn
 * **Visualization:** Plotly, Streamlit
 
