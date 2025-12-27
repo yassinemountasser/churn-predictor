@@ -8,12 +8,7 @@
 ##  Project Overview
 This project is an end-to-end **Machine Learning pipeline** designed to predict customer churn for subscription-based businesses.
 
-In a SaaS or Telco environment, retaining an existing customer is significantly cheaper than acquiring a new one. This tool helps stakeholders identify "at-risk" customers *before* they leave, enabling proactive retention strategies.
-
-**Key Features:**
-* **Production-Ready Pipeline:** Uses `Scikit-Learn` pipelines to bundle preprocessing and model logic, preventing training-serving skew.
-* **Imbalanced Data Handling:** Implements `scale_pos_weight` to correctly penalize false negatives, addressing the common issue where "No Churn" classes dominate the dataset.
-* **Interactive Dashboard:** A `Streamlit` interface that allows non-technical users to simulate scenarios (e.g., "If we offer this user a 1-year contract, does their risk drop?").
+Retaining an existing customer is significantly cheaper than acquiring a new one. This tool helps businesses identify "at-risk" customers *before* they leave, enabling proactive retention strategies.
 
 
 ### The Stack
